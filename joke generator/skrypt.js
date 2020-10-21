@@ -24,3 +24,6 @@ function getJoke(){
 }
 
 //fetch - sprowadzać
+// podstawowa składnia fetch(url,[options]);
+//jeśli nie poda się dodatkowych opcji dane zostaną pobrane metodą GET
+//metody do obsługi then() catch() all()
