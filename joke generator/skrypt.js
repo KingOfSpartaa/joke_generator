@@ -22,3 +22,5 @@ function getJoke(){
 }).then(data => data.json())
 .then(obj => jokeText.innerHTML = obj.joke)
 }
+
+//fetch - sprowadzać
